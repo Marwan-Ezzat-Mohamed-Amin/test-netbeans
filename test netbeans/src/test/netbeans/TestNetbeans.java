@@ -18,6 +18,7 @@ public class TestNetbeans {
         // TODO code application logic here
         public void func()
         {
+            //hrt
         }
 
     }
