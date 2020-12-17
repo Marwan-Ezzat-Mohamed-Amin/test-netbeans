@@ -16,9 +16,9 @@ public class TestNetbeans {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //removed code
-        //asdadas
-        //Syste,
+        public void func()
+        {
+        }
 
     }
     
