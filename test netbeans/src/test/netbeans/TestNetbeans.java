@@ -18,7 +18,7 @@ public class TestNetbeans {
         // TODO code application logic here
         System.out.println("fdaas");
         System.out.println("r2222");
-        
+         System.out.println("3");
     }
     
 }
