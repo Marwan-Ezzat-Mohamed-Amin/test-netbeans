@@ -17,6 +17,7 @@ public class TestNetbeans {
     public static void main(String[] args) {
         // TODO code application logic here
         //removed code
+        System.out.println("fsd");
 
     }
     
