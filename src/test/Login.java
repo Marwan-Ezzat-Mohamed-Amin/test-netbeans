@@ -17,6 +17,11 @@ public class Login extends javax.swing.JFrame {
     /**
      * Creates new form Login
      */
+    //card
+    public void func()
+    {
+        System.out.println("gfds");
+    }
     
     // End of variables declaration//GEN-END:variables
 }
